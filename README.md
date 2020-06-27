@@ -11,16 +11,19 @@
  - It makes use of the open-weather API.
  - Data returns include Temperature, Humidity & Weather Description.
  
-## Table of Contents
+## Installation Instructions
+
 ``` 
-- index.html
-- styles.css
-- index.js
+- Open CMD
+- CD into project root folder
+- npm install
+- npm start
 ```
     
 ## Technologies & Tools Used
 
 ``` 
+- React
 - HTML
 - CSS
 - Bootstrap 4
@@ -33,18 +36,13 @@
 ## Working Guide
   
  ``` 
-- Enter how many questions for the exam.
-- Enter how many minutes for the exam
-- Click "Try It" to begin test.
-- Click "Reset" to start over.
-- The progress bar will indicate your progression throughout the total time period.
-- The progress bar will change colour as you near towards the total time allocated.
-
+- Enter city name to retrive weather
+- Click reset to re-search a new city
 ```
      
 ## Live Link
 
-- https://jeffpwalsh.github.io/exam-pacer/
+- https://jeffpwalsh-weather-finder.herokuapp.com/
   
  ## Log
  26/06/2020
