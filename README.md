@@ -1,6 +1,6 @@
 
 # Weather-finder
- - https://jeffpwalsh-weather-finder.herokuapp.com/
+ - live link https://jeffpwalsh-weather-finder.herokuapp.com/
  
  
  ![WEATHER FINDER RENDER](/render.JPG)
