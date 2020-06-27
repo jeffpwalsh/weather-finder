@@ -3,7 +3,7 @@
  - https://jeffpwalsh-weather-finder.herokuapp.com/
  
  
- ![EXAM PACER RENDER](/render.PNG)
+ ![WEATHER FINDER RENDER](/render.JPG)
  
  
  ## Description
@@ -45,8 +45,12 @@
 - https://jeffpwalsh-weather-finder.herokuapp.com/
   
  ## Log
- 26/06/2020
+ 30/03/2020
  
 - Main branch commit
 - README created
+
+27/06/2020
+
+-render added
 
